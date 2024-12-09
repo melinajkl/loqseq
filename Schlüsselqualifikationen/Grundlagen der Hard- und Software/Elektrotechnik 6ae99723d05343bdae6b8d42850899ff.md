@@ -1,3 +1,0 @@
-# Elektrotechnik
-
-Status: Not started

@@ -1,12 +1,8 @@
 ---
-
 kanban-plugin: board
-
 ---
 
-## to do
-
-- [ ] [[Kapitel 2 Theoretische Informatik 1]]
+- [ ] Kapitel 2: Theoretische Informatik #Nico
 - [ ] Parktische Datenverarbeitung - Grundlagen und Installation
 - [ ] Programmieren - 07 bedingte Anweisungen
 - [ ] Programmieren - 08 Schleifen
@@ -15,19 +11,8 @@ kanban-plugin: board
 - [ ] Web-Engineering: Grundlagen
 - [ ] Web-Engineering: HTML
 - [ ] Web-Engineering: CSS Part 1
-
-
-## in progress
-
-- [ ] Programmieren - 05 datetime
-- [ ] Grundlagen und Logik - Kapitel 3
-
-
-## done
-
-
-
-
+- [ ] Programmieren - 05 datetime #Mona
+- [ ] Grundlagen und Logik - Kapitel 3 #Melina
 
 %% kanban:settings
 ```

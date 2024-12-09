@@ -11,17 +11,56 @@
             "id": "40b3cce6947913dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programmieren/06 Collections.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Collections"
+              "title": "To Do"
+            }
+          },
+          {
+            "id": "226593126715f81a",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
+            }
+          },
+          {
+            "id": "c769488c6453b311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Informatik/3. Beschreibung von Algorithmen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Beschreibung von Algorithmen"
+            }
+          },
+          {
+            "id": "ae863ebcb4ff7d31",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Do"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +112,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmieren/06 Collections.md",
+                "file": "Theoretische Informatik/3. Beschreibung von Algorithmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 06 Collections"
+              "title": "Backlinks for 3. Beschreibung von Algorithmen"
             }
           },
           {
@@ -112,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmieren/06 Collections.md",
+                "file": "Theoretische Informatik/3. Beschreibung von Algorithmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 06 Collections"
+              "title": "Outgoing links from 3. Beschreibung von Algorithmen"
             }
           },
           {
@@ -134,15 +174,15 @@
             }
           },
           {
-            "id": "e23f668189be8a92",
+            "id": "6870ac4c742e26ee",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmieren/06 Collections.md"
+                "file": "Theoretische Informatik/3. Beschreibung von Algorithmen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 06 Collections"
+              "title": "Outline of 3. Beschreibung von Algorithmen"
             }
           }
         ]
@@ -159,13 +199,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "40b3cce6947913dc",
+  "active": "c769488c6453b311",
   "lastOpenFiles": [
-    "Programmieren/04 Strings.md",
+    "To Do.md",
+    "Theoretische Informatik/3. Beschreibung von Algorithmen.md",
+    "Theoretische Informatik/2. Grundlagen.md",
+    "Schlüsselqualifikationen/Grundlagen der Hard- und Software/Elektrotechnik 6ae99723d05343bdae6b8d42850899ff.md",
+    "Schlüsselqualifikationen/Grundlagen der Hard- und Software/Praktische Datenverarbeitung 452ca213cce44c11b56029223e3093d1.md",
+    "Schlüsselqualifikationen/Grundlagen der Hard- und Software/Grundlagen 27beb4767a4541dab109a322a0067aaa.md",
+    "Theoretische Informatik/pictures1/Screenshot_2024-12-05_at_17.37.58.png",
+    "Kapitel 2 Theoretische Informatik 1.md",
+    "Untitled Kanban.md",
     "Programmieren/06 Collections.md",
+    "Programmieren/04 Strings.md",
+    "Programmieren/04 Strings/image.png",
+    "Programmieren/04 Strings/06 Collections.md",
+    "Untitled.md",
     "Programmieren/03 Zahlen.md",
     "Programmieren/02 Operatoren.md",
     "Schlüsselqualifikationen/Einführung in technisch-wissenschaftliches Arbeiten/Storytelling.md",
@@ -179,7 +233,6 @@
     "Schlüsselqualifikationen/Projektmanagement 1",
     "Schlüsselqualifikationen/Fremdsprachen 2",
     "Schlüsselqualifikationen/Intercultural Communication 1",
-    "Schlüsselqualifikationen/Betriebswirtschaftslehre/Vorlesung 1 - 27.11.2024.md",
-    "Untitled.md"
+    "Schlüsselqualifikationen/Betriebswirtschaftslehre/Vorlesung 1 - 27.11.2024.md"
   ]
 }
