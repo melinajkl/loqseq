@@ -1,7 +1,3 @@
-# 03 Zahlen
-
-Status: Done
-: No
 Verantwortliche:r: Melina Klein
 
 - Wie kommt man an die größte ganze Zahl in python ermittelt werden?

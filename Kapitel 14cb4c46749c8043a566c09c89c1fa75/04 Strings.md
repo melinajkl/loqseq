@@ -1,7 +1,3 @@
-# 04 Strings
-
-Status: Done
-: No
 Verantwortliche:r: Melina Klein
 
 - Wie werden Zeichenketten im Programmcode dargestellt?

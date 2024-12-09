@@ -1,7 +1,3 @@
-# 02 Operatoren
-
-Status: Done
-: No
 Verantwortliche:r: Melina Klein
 
 - Wofür werden Operatoren in Python genutzt?
