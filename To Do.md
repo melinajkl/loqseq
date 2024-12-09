@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## to do
 
-- [ ] Kapitel 2: Theoretische Informatik
+- [ ] [[Kapitel 2 Theoretische Informatik 1]]
 - [ ] Parktische Datenverarbeitung - Grundlagen und Installation
 - [ ] Programmieren - 07 bedingte Anweisungen
 - [ ] Programmieren - 08 Schleifen
