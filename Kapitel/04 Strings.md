@@ -32,7 +32,7 @@ Verantwortliche:r: Melina Klein
     
 - Erkläre die Slicing-Syntax?
     
-    ![image.png](04%20Strings%20152b4c46749c801f8742f9e3d200111e/image.png)
+    ![image.png](image.png)
     
 - Welche wichtigen Funktionen gibt es bei Strings?
     
@@ -53,15 +53,15 @@ Verantwortliche:r: Melina Klein
     
     Beispiel: 
     
-    ![image.png](04%20Strings%20152b4c46749c801f8742f9e3d200111e/image%201.png)
+    ![image.png](image%201.png)
     
 - Wie funktioniert die .format-Funktion?
     
-    ![image.png](04%20Strings%20152b4c46749c801f8742f9e3d200111e/image%202.png)
+    ![image.png](image%202.png)
     
 - Wie formatiert man Strings mit f?
     
-    ![image.png](04%20Strings%20152b4c46749c801f8742f9e3d200111e/image%203.png)
+    ![image.png](image%203.png)
     
 - Was sind reguläre Ausdrücke? Wie benutzt man sie? Was muss man importieren?
     
@@ -71,8 +71,8 @@ Verantwortliche:r: Melina Klein
     
     Wichtige Funktionen sind: 
     
-    ![image.png](04%20Strings%20152b4c46749c801f8742f9e3d200111e/image%204.png)
+    ![image.png](image%204.png)
     
 - Wie definiert man Muster für Regex (=regular expressions/reguläre Ausdrücke)?
     
-    ![image.png](04%20Strings%20152b4c46749c801f8742f9e3d200111e/image%205.png)
+    ![image.png](image%205.png)
