@@ -35,14 +35,20 @@
             "id": "c769488c6453b311",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Theoretische Informatik/3. Beschreibung von Algorithmen.md",
-                "mode": "source",
-                "source": false
+                "file": "To Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "3. Beschreibung von Algorithmen"
+              "icon": "lucide-trello",
+              "title": "To Do"
             }
           },
           {
@@ -112,8 +118,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,9 +209,23 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c769488c6453b311",
+  "active": "5cc14b38eae100e0",
   "lastOpenFiles": [
+    "Web-Technologien/Web Services",
     "To Do.md",
+    "W.md",
+    "Untitled 1.md",
+    "Web-Technologien/Web Engineering 2",
+    "Web-Technologien",
+    "Datenbanken 2/Labor akt. Datenbankarchitekturen",
+    "Datenbanken 2/Aktuelle Datenbankarchitekturen und -technologien",
+    "Schlüsselqualifikationen/Betriebswirtschaftslehre/Vorlesung 1 - 27.11.2024.md",
+    "Datenbanken - Grundlagen der Datenbanken/Data Warehouse",
+    "Datenbanken 2/DB-Implementierungen",
+    "Datenbanken 2",
+    "Softwarequalität und verteilte Systeme/Verteilte Systeme",
+    "Softwarequalität und verteilte Systeme/Softwarequalität",
+    "Softwarequalität und verteilte Systeme",
     "Theoretische Informatik/3. Beschreibung von Algorithmen.md",
     "Theoretische Informatik/2. Grundlagen.md",
     "Schlüsselqualifikationen/Grundlagen der Hard- und Software/Elektrotechnik 6ae99723d05343bdae6b8d42850899ff.md",
@@ -219,20 +238,8 @@
     "Programmieren/04 Strings.md",
     "Programmieren/04 Strings/image.png",
     "Programmieren/04 Strings/06 Collections.md",
-    "Untitled.md",
     "Programmieren/03 Zahlen.md",
     "Programmieren/02 Operatoren.md",
-    "Schlüsselqualifikationen/Einführung in technisch-wissenschaftliches Arbeiten/Storytelling.md",
-    "Mathematik 1/Analysis",
-    "Mathematik 1/Lineare Algebra",
-    "Grundlagen der Hard- und Software/Praktische Datenverarbeitung",
-    "Grundlagen der Hard- und Software/Elektrotechnik",
-    "Grundlagen der Hard- und Software/Elektronik",
-    "Grundlagen der Hard- und Software",
-    "Schlüsselqualifikationen/Projektmanagement 2",
-    "Schlüsselqualifikationen/Projektmanagement 1",
-    "Schlüsselqualifikationen/Fremdsprachen 2",
-    "Schlüsselqualifikationen/Intercultural Communication 1",
-    "Schlüsselqualifikationen/Betriebswirtschaftslehre/Vorlesung 1 - 27.11.2024.md"
+    "Schlüsselqualifikationen/Einführung in technisch-wissenschaftliches Arbeiten/Storytelling.md"
   ]
 }
