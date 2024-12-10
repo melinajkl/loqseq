@@ -32,41 +32,35 @@
             }
           },
           {
-            "id": "c769488c6453b311",
+            "id": "c90f88b646aa5cbd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "To Do"
-            }
-          },
-          {
-            "id": "ae863ebcb4ff7d31",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "To Do.md",
+                "file": "Web-Technologien/Web Engineering 2/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "1f6b07e80e4342b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Engineering/Web Engineering 1/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,35 +205,43 @@
   },
   "active": "5cc14b38eae100e0",
   "lastOpenFiles": [
+    "Grundlagen der Hard- und Software/Elektronik/Untitled.md",
+    "Grundlagen der Hard- und Software/Elektrotechnik/Untitled.md",
+    "Grundlagen der Hard- und Software/Praktische Datenverarbeitung/Untitled.md",
+    "Mathematik 1/Analysis/Untitled.md",
+    "Mathematik 1/Lineare Algebra/Untitled.md",
+    "Schlüsselqualifikationen/Vortrags-, Lern- und Arbeitstechniken/Untitled.md",
+    "Schlüsselqualifikationen/Schlüsselqualifikationen/Untitled.md",
+    "Schlüsselqualifikationen/Projektmanagement 2/Untitled.md",
+    "Schlüsselqualifikationen/Projektmanagement 1/Untitled.md",
+    "Schlüsselqualifikationen/Marketing 2/Untitled.md",
+    "Schlüsselqualifikationen/Marketing 1/Untitled.md",
+    "Schlüsselqualifikationen/Intercultural Communication 1/Untitled.md",
+    "Schlüsselqualifikationen/Fremdsprachen 2/Untitled.md",
+    "Schlüsselqualifikationen/Fremdsprachen 1/Untitled.md",
+    "Anwendungsprojekt Informatik/Untitled.md",
+    "Anwendungsprojekt Informatik/Data Warehouse/Untitled.md",
+    "Anwendungsprojekt Informatik/Data Warehouse",
+    "Datenbanken 2/Data Warehouse/Untitled.md",
+    "Datenbanken 2/Data Warehouse",
+    "Datenbanken - Grundlagen der Datenbanken/Untitled.md",
+    "Datenbanken - Grundlagen der Datenbanken/Data Warehouse/Untitled.md",
+    "Datenbanken 2/Labor akt. Datenbankarchitekturen/Untitled.md",
+    "Datenbanken 2/DB-Implementierungen/Untitled.md",
+    "Datenbanken 2/Aktuelle Datenbankarchitekturen und -technologien/Untitled.md",
+    "IT-Sicherheit/Untitled.md",
+    "Kommunikations- und Netztechnik/Signale und Systeme/Untitled.md",
+    "Kommunikations- und Netztechnik/Netztechnik/Untitled.md",
+    "Kommunikations- und Netztechnik/Labor Netztechnik/Untitled.md",
     "Web-Technologien/Web Services",
-    "To Do.md",
-    "W.md",
-    "Untitled 1.md",
     "Web-Technologien/Web Engineering 2",
     "Web-Technologien",
     "Datenbanken 2/Labor akt. Datenbankarchitekturen",
     "Datenbanken 2/Aktuelle Datenbankarchitekturen und -technologien",
-    "Schlüsselqualifikationen/Betriebswirtschaftslehre/Vorlesung 1 - 27.11.2024.md",
     "Datenbanken - Grundlagen der Datenbanken/Data Warehouse",
     "Datenbanken 2/DB-Implementierungen",
     "Datenbanken 2",
-    "Softwarequalität und verteilte Systeme/Verteilte Systeme",
-    "Softwarequalität und verteilte Systeme/Softwarequalität",
-    "Softwarequalität und verteilte Systeme",
-    "Theoretische Informatik/3. Beschreibung von Algorithmen.md",
-    "Theoretische Informatik/2. Grundlagen.md",
-    "Schlüsselqualifikationen/Grundlagen der Hard- und Software/Elektrotechnik 6ae99723d05343bdae6b8d42850899ff.md",
-    "Schlüsselqualifikationen/Grundlagen der Hard- und Software/Praktische Datenverarbeitung 452ca213cce44c11b56029223e3093d1.md",
-    "Schlüsselqualifikationen/Grundlagen der Hard- und Software/Grundlagen 27beb4767a4541dab109a322a0067aaa.md",
     "Theoretische Informatik/pictures1/Screenshot_2024-12-05_at_17.37.58.png",
-    "Kapitel 2 Theoretische Informatik 1.md",
-    "Untitled Kanban.md",
-    "Programmieren/06 Collections.md",
-    "Programmieren/04 Strings.md",
-    "Programmieren/04 Strings/image.png",
-    "Programmieren/04 Strings/06 Collections.md",
-    "Programmieren/03 Zahlen.md",
-    "Programmieren/02 Operatoren.md",
-    "Schlüsselqualifikationen/Einführung in technisch-wissenschaftliches Arbeiten/Storytelling.md"
+    "Programmieren/04 Strings/image.png"
   ]
 }
